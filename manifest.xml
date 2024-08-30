@@ -10,13 +10,13 @@
   <HighResolutionIconUrl DefaultValue="https://yldigital.files.wordpress.com/2012/02/bible-app-icon-300x300.png"/>
   <SupportUrl DefaultValue="https://vikasg603.github.io/help"/>
   <AppDomains>
-    <AppDomain>https://vikasg603.github.io</AppDomain>
+    <AppDomain>https://github.com/GoshenWells-Ltd/Bible-RefTagger-Word-Add_in</AppDomain>
   </AppDomains>
   <Hosts>
     <Host Name="Document"/>
   </Hosts>
   <DefaultSettings>
-    <SourceLocation DefaultValue="https://vikasg603.github.io/bible.html"/>
+    <SourceLocation DefaultValue="https://github.com/GoshenWells-Ltd/Bible-RefTagger-Word-Add_in/index.html"/>
   </DefaultSettings>
   <Permissions>ReadWriteDocument</Permissions>
   <VersionOverrides xmlns="http://schemas.microsoft.com/office/taskpaneappversionoverrides" xsi:type="VersionOverridesV1_0">
